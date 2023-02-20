@@ -1,35 +1,35 @@
 
 <?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  >"> 
   <url>
     <loc>https://clinquant-clafoutis-e0a3e0.netlify.app/blog/firstpost/</loc>
-    <lastmod>1676929770323</lastmod>
+    <lastmod>1676929999061</lastmod>
   </url>
   
   <url>
     <loc>https://clinquant-clafoutis-e0a3e0.netlify.app/blog/secondpost/</loc>
-    <lastmod>1676929770323</lastmod>
+    <lastmod>1676929999061</lastmod>
   </url>
   
   <url>
     <loc>https://clinquant-clafoutis-e0a3e0.netlify.app/blog/thirdpost/</loc>
-    <lastmod>1676929770323</lastmod>
+    <lastmod>1676929999061</lastmod>
   </url>
   
   <url>
     <loc>https://clinquant-clafoutis-e0a3e0.netlify.app/</loc>
-    <lastmod>1676929770323</lastmod>
+    <lastmod>1676929999061</lastmod>
   </url>
   
   <url>
     <loc>https://clinquant-clafoutis-e0a3e0.netlify.app/about/</loc>
-    <lastmod>1676929770323</lastmod>
+    <lastmod>1676929999061</lastmod>
   </url>
   
   <url>
     <loc>https://clinquant-clafoutis-e0a3e0.netlify.app/blog/</loc>
-    <lastmod>1676929770323</lastmod>
+    <lastmod>1676929999061</lastmod>
   </url>
   
 </urlset>
